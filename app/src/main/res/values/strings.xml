@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">OrganizeClone</string>
+
+    <!--- Fragments Slides -->
+    <string name="texto_intro_um">Organize suas contas\n de onde estiver</string>
+    <string name="texto_complementar_um">Simples, fácil de usar e grátis</string>
+
+    <string name="texto_intro_dois">Saiba para onde\n está indo seu dinheiro</string>
+    <string name="texto_complementar_dois">Categorizar seus lançamentos\n e vendo o destino de cada centavo</string>
+
+    <string name="texto_intro_tres">Nunca mais esqueça\n de pagar uma conta</string>
+    <string name="texto_complementar_tres">Receba alertas quando quiser</string>
+
+    <string name="texto_intro_quatro">Tudo organizado, no\n celular ou computador</string>
+    <string name="texto_complementar_quatro">Use no seu samrtphone e acessando o\n Organizze pelo site</string>
+
+    <!--- Fragments Cadastro -->
+    <string name="texto_realizar_cadastro">Crie sua conta grátis</string>
+    <string name="texto_auxiliar_realizar_cadastro">Junte-se a mais de meio milhão\n de pessoas e comece já !</string>
+
+    <string name="texto_do_botao">CADASTRE-SE</string>
+
+    <string name="texto_ja_tenho_conta">Já tenho conta</string>
+
+    <!--- Tela de cadastro -->
+    <string name="texto_edt_nome">Nome </string>
+    <string name="texto_edt_email">Email</string>
+    <string name="texto_edt_senha">Senha</string>
+    <string name="texto_botao_cadastrar">Cadastrar</string>
+    <string name="texto_termos_de_uso">Termos de uso</string>
+
+    <!--- Tela de Login -->
+    <string name="texto_acesso_conta">Acesse sua conta</string>
+    <string name="texto_botao_login">Entrar</string>
+</resources>
